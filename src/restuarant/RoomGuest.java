@@ -6,7 +6,5 @@ public class RoomGuest {
 		
 		RoomService roomService = new RoomService(new IndianKitchen());
 		System.out.println(roomService.takeOrder("Dosa"));
-		
 	}
-
 }

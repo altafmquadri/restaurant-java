@@ -6,8 +6,4 @@ public class IndianKitchen implements Kitchen{
 	public String cookFood(String foodName) {
 		return "Food is prepared by Indian Kitchen with dish " + foodName;
 	}
-
-	
-
-
 }
