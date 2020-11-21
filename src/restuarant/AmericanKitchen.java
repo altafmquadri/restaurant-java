@@ -6,9 +6,4 @@ public class AmericanKitchen implements Kitchen {
 	public String cookFood(String foodName) {
 		return "Food is prepared by American Kitchen with dish " + foodName;
 	}
-
-	
-
-	
-
 }
